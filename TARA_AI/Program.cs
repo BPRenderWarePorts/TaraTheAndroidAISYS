@@ -1,6 +1,3 @@
-﻿usingSystem;
-Console.color("00b4ff");
-Console.title("TTASAI");
 // Simple Tara the Android AI system.  For these comments, run in VS.  For no comments and a cleaner UI, run in the Windows terminal.
 //More advanced version coming October 2023.
 //READS USER INPUT.  In this version, the user must follow a script.
